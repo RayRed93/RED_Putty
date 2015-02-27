@@ -10,3 +10,12 @@ c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Deb
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\bin\Debug\RED_putty.exe.config
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.exe
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.pdb
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\bin\Debug\RED_putty.exe.config
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.exe
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.pdb
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\bin\Debug\RED_putty.exe
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\bin\Debug\RED_putty.pdb
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.csprojResolveAssemblyReference.cache
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.Form1.resources
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.Properties.Resources.resources
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.csproj.GenerateResource.Cache
