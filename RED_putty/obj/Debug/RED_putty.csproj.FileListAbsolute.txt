@@ -1,0 +1,9 @@
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\bin\Debug\RED_putty.exe.config
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\bin\Debug\RED_putty.exe
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\bin\Debug\RED_putty.pdb
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.Form1.resources
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.Properties.Resources.resources
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.exe
+c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.pdb
