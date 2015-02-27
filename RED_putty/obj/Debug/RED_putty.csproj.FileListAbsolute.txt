@@ -7,3 +7,6 @@ c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Deb
 c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.csproj.GenerateResource.Cache
 c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.exe
 c:\users\piotr\documents\visual studio 2013\Projects\RED_putty\RED_putty\obj\Debug\RED_putty.pdb
+C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\bin\Debug\RED_putty.exe.config
+C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.exe
+C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.pdb

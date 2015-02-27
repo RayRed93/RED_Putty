@@ -14,7 +14,7 @@ namespace RED_putty
     public partial class Form1 : Form
     {
 
-        public Process myprocess;
+        public Process myprocess;  //test
         public bool flag;
       
         public Form1()
