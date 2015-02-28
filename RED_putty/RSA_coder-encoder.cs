@@ -20,7 +20,6 @@ namespace RED_putty
 			byte[] encryptedData;
 			byte[] decryptedData;
 
-
 			// encryptedData = RSAEncrypt(dataToEncrypt, RSA.ExportParameters(false), false); //dupa
 
 
