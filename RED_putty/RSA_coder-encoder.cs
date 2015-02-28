@@ -22,7 +22,7 @@ namespace RED_putty
 
 			// encryptedData = RSAEncrypt(dataToEncrypt, RSA.ExportParameters(false), false); //dupa
 
-
+			
 			return null;// encryptedData;
 		}
 	
