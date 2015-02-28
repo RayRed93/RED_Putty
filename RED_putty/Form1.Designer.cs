@@ -64,7 +64,7 @@
 			// Connect
 			// 
 			this.Connect.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-			this.Connect.Location = new System.Drawing.Point(321, 175);
+			this.Connect.Location = new System.Drawing.Point(197, 175);
 			this.Connect.Name = "Connect";
 			this.Connect.Size = new System.Drawing.Size(99, 40);
 			this.Connect.TabIndex = 0;
@@ -173,7 +173,7 @@
 			// 
 			this.disconnect.Enabled = false;
 			this.disconnect.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-			this.disconnect.Location = new System.Drawing.Point(197, 175);
+			this.disconnect.Location = new System.Drawing.Point(302, 175);
 			this.disconnect.Name = "disconnect";
 			this.disconnect.Size = new System.Drawing.Size(118, 40);
 			this.disconnect.TabIndex = 9;
@@ -291,7 +291,7 @@
 			this.MainMenuStrip = this.menuStrip1;
 			this.MaximizeBox = false;
 			this.Name = "Form1";
-			this.Text = "RED Putty";
+			this.Text = "rePuTTY";
 			this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
 			this.groupBox1.ResumeLayout(false);
 			this.groupBox1.PerformLayout();
