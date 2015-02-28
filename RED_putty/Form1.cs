@@ -149,22 +149,7 @@ namespace RED_putty
             }
         }
 
-        public byte[] RSA_coder(string password)
-        {
-            UnicodeEncoding ByteConverter = new UnicodeEncoding();
-            RSACryptoServiceProvider RSA = new RSACryptoServiceProvider();
-            
-
-            byte[] dataToEncrypt = ByteConverter.GetBytes(password);
-            byte[] encryptedData;
-            byte[] decryptedData;
-
-
-           // encryptedData = RSAEncrypt(dataToEncrypt, RSA.ExportParameters(false), false); //dupa
-
-
-            return null;// encryptedData;
-        }
+       
 
        
         
