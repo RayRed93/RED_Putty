@@ -58,3 +58,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/RED_putty/bin/Release
+/RED_putty/obj/Release
+/RED_putty/bin/Debug
+/RED_putty/obj/Debug
