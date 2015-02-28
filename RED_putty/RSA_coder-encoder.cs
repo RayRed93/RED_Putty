@@ -15,7 +15,6 @@ namespace RED_putty
 			UnicodeEncoding ByteConverter = new UnicodeEncoding();
 			RSACryptoServiceProvider RSA = new RSACryptoServiceProvider();
 
-
 			byte[] dataToEncrypt = ByteConverter.GetBytes(password);
 			byte[] encryptedData;
 			byte[] decryptedData;
