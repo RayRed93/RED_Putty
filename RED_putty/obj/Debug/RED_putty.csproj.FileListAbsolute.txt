@@ -16,3 +16,6 @@ C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.csprojRe
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.Form1.resources
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.Properties.Resources.resources
 C:\Users\Piotr\Documents\GitHub\RED_Putty\RED_putty\obj\Debug\RED_putty.csproj.GenerateResource.Cache
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\bin\Debug\RED_putty.exe.config
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.exe
+D:\Projekty\VSProjects\TeamProjects\RED_Putty\RED_putty\obj\Debug\RED_putty.pdb
