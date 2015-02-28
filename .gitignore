@@ -3,8 +3,8 @@ Thumbs.db
 ehthumbs.db
 
 #Visual Studio files
-bin/
-obj/
+bin/**
+obj/**
 
 # Folder config file
 Desktop.ini
