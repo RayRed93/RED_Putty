@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 
 namespace RED_putty
 {
-	class RSA_coder_encoder//dsdsds
+	class RSA_coder_encoder
 	{
 
 		public byte[] RSA_coder(string password)
