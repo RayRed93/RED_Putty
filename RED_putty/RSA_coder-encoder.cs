@@ -17,6 +17,7 @@ namespace RED_putty
 
 
 
+
 			byte[] dataToEncrypt = ByteConverter.GetBytes(password);
 			byte[] encryptedData;
 			byte[] decryptedData;
